@@ -978,6 +978,12 @@ source = "crates"
 categories = ["3dformatloaders"]
 
 [[items]]
+name = "Icemic/moyu"
+source = "github"
+categories = ["engines", "2drendering", "ui"]
+homepage_url = "https://momoyu.ink/en/"
+
+[[items]]
 name = "mun-lang/mun"
 source = "github"
 categories = ["scripting"]
